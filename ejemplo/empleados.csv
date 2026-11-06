@@ -1,0 +1,41 @@
+ID,Nombre,Ciudad,Departamento,Sueldo,Comentario
+1,María,Puno,Sistemas,2465,Nuevo ingreso
+2,Pedro,Piura,Finanzas,3219,Sin observaciones
+3,Pedro,Juliaca,Finanzas,5045,Sin observaciones
+4,Andrés,Piura,Sistemas,3374,Sin observaciones
+5,Jorge,Juliaca,Ventas,1708,Sin observaciones
+6,Sofía,Lima,Finanzas,1737,"Trabaja en remoto, medio tiempo"
+7,Pedro,Piura,RRHH,3409,"Dijo: ""excelente"""
+8,Carlos,Lima,Finanzas,3873,Sin observaciones
+9,Sofía,Puno,Soporte,3928,Sin observaciones
+10,Andrés,Tacna,RRHH,4957,"Trabaja en remoto, medio tiempo"
+11,Lucía,Arequipa,RRHH,5590,Nuevo ingreso
+12,Diego,Juliaca,Finanzas,3488,Nuevo ingreso
+13,Sofía,Cusco,Sistemas,5995,"Dijo: ""excelente"""
+14,Luis,Piura,RRHH,2384,"Trabaja en remoto, medio tiempo"
+15,Valeria,Trujillo,Sistemas,5511,Sin observaciones
+16,Pedro,Juliaca,Sistemas,4724,"Trabaja en remoto, medio tiempo"
+17,María,Lima,Ventas,3134,"Trabaja en remoto, medio tiempo"
+18,Sofía,Tacna,RRHH,4394,Nuevo ingreso
+19,Lucía,Juliaca,Finanzas,5698,"Trabaja en remoto, medio tiempo"
+20,Valeria,Lima,Finanzas,1959,Nuevo ingreso
+21,Jorge,Lima,RRHH,4886,Nuevo ingreso
+22,Jorge,Trujillo,Sistemas,1512,"Dijo: ""excelente"""
+23,Pedro,Juliaca,Soporte,2951,"Trabaja en remoto, medio tiempo"
+24,Luis,Arequipa,Ventas,2077,Sin observaciones
+25,Ana,Piura,Ventas,3803,"Trabaja en remoto, medio tiempo"
+26,Lucía,Puno,RRHH,3012,"Dijo: ""excelente"""
+27,Lucía,Puno,Soporte,2807,"Dijo: ""excelente"""
+28,Valeria,Cusco,Sistemas,3912,Nuevo ingreso
+29,Andrés,Tacna,Finanzas,5381,Sin observaciones
+30,Ana,Arequipa,Finanzas,4312,Nuevo ingreso
+31,Carlos,Arequipa,Ventas,3576,"Trabaja en remoto, medio tiempo"
+32,Diego,Trujillo,Ventas,3346,Sin observaciones
+33,Sofía,Cusco,Ventas,2812,Nuevo ingreso
+34,Andrés,Trujillo,RRHH,3307,Nuevo ingreso
+35,Carlos,Juliaca,Finanzas,4131,Nuevo ingreso
+36,Ana,Arequipa,Soporte,3237,Sin observaciones
+37,Lucía,Puno,Ventas,4042,"Dijo: ""excelente"""
+38,Andrés,Cusco,Finanzas,3567,"Trabaja en remoto, medio tiempo"
+39,Ana,Juliaca,RRHH,3282,Nuevo ingreso
+40,María,Juliaca,Finanzas,3141,"Dijo: ""excelente"""

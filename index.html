@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Visor CSV con Web Workers</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <main class="contenedor">
+    <h1>Visor de archivos CSV</h1>
+    <p class="subtitulo">El archivo se procesa en un Web Worker para no bloquear la interfaz.</p>
+
+    <section class="carga">
+      <label for="archivo" class="boton">Seleccionar archivo CSV</label>
+      <input type="file" id="archivo" accept=".csv,text/csv">
+      <span id="nombreArchivo">Ningún archivo seleccionado</span>
+    </section>
+
+    <p id="estado" class="estado" role="status"></p>
+
+    <div class="tabla-wrapper">
+      <table id="tabla">
+        <thead></thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
